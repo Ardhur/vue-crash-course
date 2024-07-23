@@ -1,29 +1,7 @@
-# bwgui-vue
+# Vue Crash Course
 
-This template should help get you started developing with Vue 3 in Vite.
+Learning Vue by following the crash course from Traversy Media.
 
-## Recommended IDE Setup
+## Introduction
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+This project is a part of the Vue crash course by Traversy Media. It covers the basics of Vue.js and helps in understanding how to build interactive web applications using Vue.
